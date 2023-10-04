@@ -35,10 +35,10 @@ html{
 footer {
     z-index: 5;
     background-color: black;
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: #DBEDF3;
     font-family: "Arvo", cursive;
-    text-shadow: 2px 0 #da9a04;
+    text-shadow: 1px 0 #da9a04;
     
 }
 .drum {
