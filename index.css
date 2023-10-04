@@ -1,15 +1,65 @@
 html{
     text-align: center ;
+    height: 100vh;
 } 
 
 
-.PageContainer{
+.context{
+    margin-top:0px; 
     display: grid; 
     grid-template-columns: 100%; 
     grid-template-rows:30% 70%;
+    height: 100vh;
+
 }
+.header {
+    grid-column-start: 1; 
+    grid-column-end:2 ; 
+    grid-row-start : 1 ; 
+    grid-row-end:2 ;
+    font-size: 3rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #da9a04;
+    margin-top:12vh;
+}
+.Sounds {
+    grid-column-start: 1; 
+    grid-column-end:2 ; 
+    grid-row-start : 2 ; 
+    grid-row-end:3 ;
+    /* display:flex; 
+    flex-direction :row; 
+    gap:10px ; */
+}
+footer {
+    z-index: 5;
+    background-color: black;
+    font-size: 2rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 2px 0 #da9a04;
+    
+}
+.drum {
+    outline: none;
+/* border: 10px solid #c11809; */
+font-size: 5rem;
+font-family: 'Arvo', cursive;
+line-height: 2;
+font-weight: 900;
+color: #da9a04;
+text-shadow: 3px 0 #DBEDF3;
+border-radius: 15px;
+/* display: inline-block; */
+width: 150px;
+height: 150px;
+text-align: center;
+margin: 10px;
+background-color: white;
+box-shadow: 0 8px 16px 0 rgba(255,255,255,0.2), 0 6px 20px 0 rgba(255,255,255,0.19);
 
-
+}
 
 
 @import url('https://fonts.googleapis.com/css?family=Exo:400,700');
@@ -26,14 +76,14 @@ body{
 .context {
     width: 100%;
     position: absolute;
-    top:50vh;
+    /* top:50vh; */
     
 }
+
 
 .context h1{
     text-align: center;
     color: #fff;
-    font-size: 50px;
 }
 
 
