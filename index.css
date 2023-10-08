@@ -63,7 +63,27 @@ box-shadow: 0 8px 16px 0 rgba(255,255,255,0.2), 0 6px 20px 0 rgba(255,255,255,0.
 
 }
 
-
+.W {
+    background-image: url("./images/tom1.png"); 
+}
+.A {
+    background-image: url("./images/tom2.png"); 
+}
+.S {
+    background-image: url("./images/tom3.png"); 
+}
+.D {
+    background-image: url("./images/tom4.png"); 
+}
+.J {
+    background-image: url("./images/crash.png"); 
+}
+.K {
+    background-image: url("./images/kick.png"); 
+}
+.L {
+    background-image: url("./images/snare.png"); 
+}
 @import url('https://fonts.googleapis.com/css?family=Exo:400,700');
 *{
     margin: 0px;
