@@ -13,15 +13,15 @@ Deployed Website: [not deployed yet-- Deploy when repo go public]
 
 ## Demo Video 
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="./images/project.png">
-    <source src="./demo/demo_Compressed.mp4" type="video/mp4">
-  </video>
-</figure>
+[Demo Video](https://github.com/mtheggi/The-Drum-Kit/assets/88272272/a50fdf81-ecab-47ad-8237-618ca4407684)
 
 ## Built With
 
   * HTML
+
+
+
+
   * CSS
   * JavaScript
 
