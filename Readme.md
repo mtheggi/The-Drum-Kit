@@ -14,7 +14,7 @@ Deployed Website: [not deployed yet-- Deploy when repo go public]
 ## Demo Video 
 
 <video width="320" height="240" controls>
-    <source src="./demo/demo.mp4" type="video/mp4">
+    <source src="./demo/demo_Compressed.mp4" type="video/mp4">
 </video>
 
 ## Built With
