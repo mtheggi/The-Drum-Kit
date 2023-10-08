@@ -15,7 +15,7 @@ Deployed Website: [not deployed yet-- Deploy when repo go public]
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="./images/project.png">
-    <source src="./demo/demo_Compressed.mp4." type="video/mp4">
+    <source src="./demo/demo_Compressed.mp4" type="video/mp4">
   </video>
 </figure>
 
